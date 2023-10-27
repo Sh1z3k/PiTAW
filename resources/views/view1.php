@@ -10,7 +10,7 @@
   </head>
   <body>
     <main>
-        <h1>Działa view1</h1>  
+        <h1>Działa view1 </h1>  
     </main>
 	<script src="index.js"></script>
   </body>
