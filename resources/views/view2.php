@@ -12,7 +12,10 @@
     <main>
         <h1>View 2</h1>
         <h2>Dziś jest  <?php
-        echo date("D: H:i:s", time());
+        echo date("l", time());
+        ?>
+        godzina: <?php
+        echo date("H:m:s", time());
         ?></h2> 
         
     </main>

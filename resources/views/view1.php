@@ -10,7 +10,10 @@
   </head>
   <body>
     <main>
-        <h1>Działa view1 </h1>  
+        <h1>Działa view1 </h1> 
+
+         <a href="/view3"  type="button">Switch to View 3 </a>
+
     </main>
 	<script src="index.js"></script>
   </body>

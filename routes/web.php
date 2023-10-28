@@ -21,7 +21,7 @@ Route::get('/view2', function () {
     return view('view2');
 });
 
-Route::get('/view2', function () {
-    return view('view2');
+Route::get('/', function () {
+    return view('welcome');
 });
 
