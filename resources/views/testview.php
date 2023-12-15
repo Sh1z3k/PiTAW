@@ -10,15 +10,7 @@
   </head>
   <body>
     <main>
-
-
-    <!-- start mojego kodu -->
-        <h1>Działa view1 </h1> 
-
-         <a href="/view2"  type="button">Switch to View 2 </a>
-    <!-- koniec mojego kodu -->
-
-    
+        <h1>test</h1> 
     </main>
 	<script src="index.js"></script>
   </body>

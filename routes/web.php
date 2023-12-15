@@ -24,4 +24,3 @@ Route::get('/view2', function () {
 Route::get('/', function () {
     return view('welcome');
 });
-
